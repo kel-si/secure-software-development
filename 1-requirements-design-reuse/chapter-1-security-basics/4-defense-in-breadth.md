@@ -31,4 +31,7 @@
 - do not need to execute these processes in a strict sequence (waterfall model) and can be a [mistake](https://dl.acm.org/doi/10.5555/41765.41801) to do so
 - another common mistake is to implement components independently without integrating and testing together until everything is completed
 - bounce between processes as new information is learned
-***
+- continuous integration (CI) recommended (merging working copies of development into a shared mainline)
+- CI pipeline runs whenever something is merged to ensure it builds and passes tests and checks
+- Also Continuous Delivery, Continuous Deployment, DevOps, [DevSecOps](https://www.redhat.com/en/topics/devops/what-is-devsecops), and [GitOps](https://www.redhat.com/en/topics/devops/what-is-gitops)
+- security tests / checks in the CI pipeline or running parallel
