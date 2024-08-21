@@ -22,7 +22,7 @@
 - if actually open, allows for extensive public scrutiny
 #### 5. Fail-safe defaults
 - default installation should be secure
-- allow lists over deny lists
+- **allow lists over deny lists**
 - ex: don't distrubute software with a blank password, require one is set when software is installed
 #### 6. Separation of privilege
 - access depends on more than one condition (ex: 2FA)
