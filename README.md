@@ -1,1 +1,25 @@
-# secure-software-development
+# LinuxFoundationX LFD104x: Secure Software Development Fundamentals
+
+## Course 1 - [Secure Software Development: Requirements, Design, and Reuse](https://github.com/kel-si/secure-software-development/tree/main/1-requirements-design-reuse)
+### [Chapter 1 - Security Basics](https://github.com/kel-si/secure-software-development/tree/main/1-requirements-design-reuse/chapter-1-security-basics)
+- [CIA Triad](https://github.com/kel-si/secure-software-development/blob/main/1-requirements-design-reuse/chapter-1-security-basics/1-cia-triad.md)
+- [Privacy]((https://github.com/kel-si/secure-software-development/blob/main/1-requirements-design-reuse/chapter-1-security-basics/2-privacy.md))
+- [Risk Management](https://github.com/kel-si/secure-software-development/blob/main/1-requirements-design-reuse/chapter-1-security-basics/3-risk-management.md)
+- [Defense-in-Breadth](https://github.com/kel-si/secure-software-development/blob/main/1-requirements-design-reuse/chapter-1-security-basics/4-defense-in-breadth.md)
+- [Protect-Detect-Respond](https://github.com/kel-si/secure-software-development/blob/main/1-requirements-design-reuse/chapter-1-security-basics/5-protect-detect-respond.md)
+- [Vulnerabilities](https://github.com/kel-si/secure-software-development/blob/main/1-requirements-design-reuse/chapter-1-security-basics/6-vulnerabilities.md)
+
+### [Chapter 2 - Secure Design Principles](https://github.com/kel-si/secure-software-development/tree/main/1-requirements-design-reuse/chapter-2-secure-design-principles)
+- [Security Design Principles](https://github.com/kel-si/secure-software-development/blob/main/1-requirements-design-reuse/chapter-2-secure-design-principles/1-security-design-principles.md)
+- [Least Privilege](https://github.com/kel-si/secure-software-development/blob/main/1-requirements-design-reuse/chapter-2-secure-design-principles/2-least-privilege.md)
+- [Complete Mediation](https://github.com/kel-si/secure-software-development/blob/main/1-requirements-design-reuse/chapter-2-secure-design-principles/3-complete-mediation.md)
+- [Insecure Design](https://github.com/kel-si/secure-software-development/blob/main/1-requirements-design-reuse/chapter-2-secure-design-principles/4-insecure-design.md)
+- [Warning Signs](https://github.com/kel-si/secure-software-development/blob/main/1-requirements-design-reuse/chapter-2-secure-design-principles/5-warning-signs.md)
+- [Untrustworthy Environments](https://github.com/kel-si/secure-software-development/blob/main/1-requirements-design-reuse/chapter-2-secure-design-principles/6-untrustworthy-environments.md)
+- [Other Design Principles](https://github.com/kel-si/secure-software-development/blob/main/1-requirements-design-reuse/chapter-2-secure-design-principles/7-other-design-principles.md)
+
+### [Chapter 3 - Reusing External Software](https://github.com/kel-si/secure-software-development/tree/main/1-requirements-design-reuse/chapter-3-reusing-external-software)
+- [Basics of Reusing Software](https://github.com/kel-si/secure-software-development/blob/main/1-requirements-design-reuse/chapter-3-reusing-external-software/1-basics-of-reusing-software.md)
+- [Selecting Open Source Software](https://github.com/kel-si/secure-software-development/blob/main/1-requirements-design-reuse/chapter-3-reusing-external-software/2-selecting-open-source-software.md)
+- [Downloading and Installing Reusable Software](https://github.com/kel-si/secure-software-development/blob/main/1-requirements-design-reuse/chapter-3-reusing-external-software/3-downloading-and-installing-reusable-software.md)
+- [Updating Reused Software Components](https://github.com/kel-si/secure-software-development/blob/main/1-requirements-design-reuse/chapter-3-reusing-external-software/4-updating-reused-software-components.md)
