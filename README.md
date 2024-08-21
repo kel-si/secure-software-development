@@ -3,7 +3,7 @@
 ## Course 1 - [Secure Software Development: Requirements, Design, and Reuse](https://github.com/kel-si/secure-software-development/tree/main/1-requirements-design-reuse)
 ### [Chapter 1 - Security Basics](https://github.com/kel-si/secure-software-development/tree/main/1-requirements-design-reuse/chapter-1-security-basics)
 - [CIA Triad](https://github.com/kel-si/secure-software-development/blob/main/1-requirements-design-reuse/chapter-1-security-basics/1-cia-triad.md)
-- [Privacy]((https://github.com/kel-si/secure-software-development/blob/main/1-requirements-design-reuse/chapter-1-security-basics/2-privacy.md))
+- [Privacy](https://github.com/kel-si/secure-software-development/blob/main/1-requirements-design-reuse/chapter-1-security-basics/2-privacy.md)
 - [Risk Management](https://github.com/kel-si/secure-software-development/blob/main/1-requirements-design-reuse/chapter-1-security-basics/3-risk-management.md)
 - [Defense-in-Breadth](https://github.com/kel-si/secure-software-development/blob/main/1-requirements-design-reuse/chapter-1-security-basics/4-defense-in-breadth.md)
 - [Protect-Detect-Respond](https://github.com/kel-si/secure-software-development/blob/main/1-requirements-design-reuse/chapter-1-security-basics/5-protect-detect-respond.md)
